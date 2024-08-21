@@ -64,7 +64,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone
+git clone https://github.com/nirban07/iphone15-website.git
 cd iphone-doc
 ```
 
